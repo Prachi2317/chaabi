@@ -1,0 +1,2 @@
+def sublist_with_every_second_element(lst, start_index, end_index):
+    return lst[start_index+1:end_index:2]
